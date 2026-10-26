@@ -1,0 +1,9 @@
+{
+  "name": "tb-hax-20261026",
+  "version": "1.0.0",
+  "packageType": "app",
+  "appName": "HaxSvcTemp",
+  "appPath": "index.html",
+  "serviceFile": "service.js",
+  "description": "Temporary TizenBrew service module"
+}
